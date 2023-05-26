@@ -24,10 +24,20 @@ Parking using Single Slot : the Single Slot is connected by Single Proximity sen
 Parking using Multiple Slots : Multiple Slots are connected by Multiple Proximity Sensors to detect if each slot is Empty or Not
 
 ## Sensit.mot File
+
 Sens’it Discovery Payload has many modes for specific operation 
+
 *   Mode 0 : Stand by Mode
 *   Mode 1 : Temperature Sensor and Humidity Sensor
 *   Mode 2 : Light Sensor
 *   Mode 3 : Door Sensor
 *   Mode 4 : Vibration Sensor
 *   Mode 5 : Magnet Sensor
+
+## Minew.mot File
+Consists of two projects :
+
+*   S1 Temperature and Humidity Beacon Integration
+*   CacIot
+S1 Temperature and Humidity Beacon Integration : G1 BLE Gateway can be configured through a simple WEB configuration interface
+CacIot : Controlling of electric light bulbs using mobile configurations and Egyption Actuators
