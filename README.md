@@ -39,5 +39,7 @@ Consists of two projects :
 
 *   S1 Temperature and Humidity Beacon Integration
 *   CacIot
+
 S1 Temperature and Humidity Beacon Integration : G1 BLE Gateway can be configured through a simple WEB configuration interface
+
 CacIot : Controlling of electric light bulbs using mobile configurations and Egyption Actuators
